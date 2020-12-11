@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1086655610351",
+    "firebase_url": "https://pizza-app-ede15.firebaseio.com",
+    "project_id": "pizza-app-ede15",
+    "storage_bucket": "pizza-app-ede15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086655610351:android:62c2adb4dc83473a6a4a1a",
+        "android_client_info": {
+          "package_name": "com.infinium.pizza_app_rasheen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086655610351-euakknlse1pgbju9vgfg1edser1s421i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV27EfA62P_-e4n4vHJu7E3Id4tRgDGro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086655610351-euakknlse1pgbju9vgfg1edser1s421i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
